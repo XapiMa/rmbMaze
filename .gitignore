@@ -1,0 +1,5 @@
+*.pyc
+*.txt
+.DS_*
+
+__pycache__/
